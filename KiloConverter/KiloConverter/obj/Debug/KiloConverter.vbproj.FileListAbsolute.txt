@@ -1,0 +1,10 @@
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\bin\Debug\KiloConverter.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\bin\Debug\KiloConverter.exe
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\bin\Debug\KiloConverter.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\bin\Debug\KiloConverter.xml
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\obj\Debug\KilocConverter.Form1.resources
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\obj\Debug\KilocConverter.Resources.resources
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\obj\Debug\KiloConverter.vbproj.GenerateResource.Cache
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\obj\Debug\KiloConverter.exe
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\obj\Debug\KiloConverter.xml
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\KiloConverter\KiloConverter\obj\Debug\KiloConverter.pdb
