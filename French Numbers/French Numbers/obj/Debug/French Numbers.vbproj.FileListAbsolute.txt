@@ -1,0 +1,14 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\bin\Debug\French Numbers.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\bin\Debug\French Numbers.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\bin\Debug\French Numbers.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\bin\Debug\French Numbers.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\obj\Debug\French_Numbers.Form1.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\obj\Debug\French_Numbers.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\obj\Debug\French Numbers.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\obj\Debug\French Numbers.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\obj\Debug\French Numbers.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\French Numbers\obj\Debug\French Numbers.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\French Numbers\French Numbers\bin\Debug\French Numbers.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\French Numbers\French Numbers\obj\Debug\French Numbers.exe
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\French Numbers\French Numbers\obj\Debug\French Numbers.xml
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\French Numbers\French Numbers\obj\Debug\French Numbers.pdb
