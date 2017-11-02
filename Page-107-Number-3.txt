@@ -1,0 +1,3 @@
+﻿------ Build started: Project: Page-107-3, Configuration: Debug Any CPU ------
+  Page-107-3 -> C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-3\bin\Debug\Page-107-3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
