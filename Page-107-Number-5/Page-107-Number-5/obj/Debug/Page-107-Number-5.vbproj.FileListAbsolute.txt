@@ -1,0 +1,10 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\bin\Debug\Page-107-Number-5.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\bin\Debug\Page-107-Number-5.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\bin\Debug\Page-107-Number-5.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\bin\Debug\Page-107-Number-5.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\obj\Debug\Page_107_Number_5.Form1.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\obj\Debug\Page_107_Number_5.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\obj\Debug\Page-107-Number-5.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\obj\Debug\Page-107-Number-5.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\obj\Debug\Page-107-Number-5.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-Number-5\obj\Debug\Page-107-Number-5.pdb

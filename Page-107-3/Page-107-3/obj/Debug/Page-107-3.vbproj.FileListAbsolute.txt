@@ -8,3 +8,7 @@ C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-3\obj\Debug\Page-107
 C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-3\obj\Debug\Page-107-3.exe
 C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-3\obj\Debug\Page-107-3.xml
 C:\Users\ip133225\AppData\Local\Temporary Projects\Page-107-3\obj\Debug\Page-107-3.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\Page-107-3\Page-107-3\bin\Debug\Page-107-3.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\Page-107-3\Page-107-3\obj\Debug\Page-107-3.exe
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\Page-107-3\Page-107-3\obj\Debug\Page-107-3.xml
+C:\Users\ip133225\Desktop\Visual Basic\VBChapter1-2\Page-107-3\Page-107-3\obj\Debug\Page-107-3.pdb
